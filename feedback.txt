@@ -1,0 +1,10 @@
+1. Technically b is the first address past the end of the shared memory segment.
+
+2. How is IPC_PRIVATE used as a key?
+
+3. The question is what are some different functions `shmctl` can provide. 
+   Describing the macros wasn't the main point of the question.
+
+
+It looks like you are still working on the reader/writer.  
+Let me know if I'm overlooking something. 
